@@ -1,0 +1,35 @@
+.titulo{
+    font-size: 3rem;
+    color: #338;
+    text-align: center;
+}
+
+.quadrado{
+    color: orange;
+    background-color: black;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border: solid 30px red;
+}
+
+h3{
+    font-size: 6rem;
+}
+
+body{
+    background-image: url(./pngtree-vector-house-icon-png-image_695726.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+button{
+    background-color: crimson;
+    padding: 20px 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+
